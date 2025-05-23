@@ -207,8 +207,8 @@ ___
 7a. Build a Session Management using JSP program set with one minute session expiry time to get
 your name through text box and press submit to display the message by greeting Hello your name!.
 Check the expiry of the session after one minute.                                                                   
-https://github.com/SIDDHARTHKANABARGI/Advanced_Java/blob/main/7_JavaServlet/Session/sesssion1.png
-https://github.com/SIDDHARTHKANABARGI/Advanced_Java/blob/main/7_JavaServlet/Session/sesssion2.png
+https://github.com/SIDDHARTHKANABARGI/Advanced_Java/blob/main/7_JavaServlet/Session/session1.png
+https://github.com/SIDDHARTHKANABARGI/Advanced_Java/blob/main/7_JavaServlet/Session/session2.png
 
 
 7b. Construct a Cookie Management program using JSP to get the fields Name, Domain and Max
