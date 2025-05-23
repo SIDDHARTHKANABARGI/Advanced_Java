@@ -111,7 +111,9 @@ Q4. Write a Java Program for Checking if a string reads the same backward as for
 and punctuation) using user defined function isPalindrome():                                                    
 Q5. Write a Java Program for Eliminating all whitespace characters from a string using user defined
 function removeWhitespace()                                                    
-3c. String Exercise progams
+
+3c. String Exercise progams                                                
+                                                
 Q6. Write a Java Program for Capitalizing the first letter of each word. using user defined function
 capitalizeWords()                                                    
 Q7. Write a Java Program for Shortening a string to a specified length and adds an ellipsis using user
