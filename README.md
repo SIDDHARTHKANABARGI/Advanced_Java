@@ -96,7 +96,7 @@ String Splitting, StringBuilder Demo, String Formatting , Validate Email with co
 startsWith() and endsWith()           
 
 Output for 3a :-                                                 
-https://github.com/Anush807/Advanced_Java/blob/main/Exp3_StringHandling/3a.png
+https://github.com/SIDDHARTHKANABARGI/Advanced_Java/blob/main/3_StringHandling/3a.png
 
 
 3b. String Exercise progams                                                    
